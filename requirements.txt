@@ -1,0 +1,16 @@
+bcrypt
+blinker
+click
+Flask
+Flask-Bcrypt
+Flask-JWT-Extended
+Flask-SQLAlchemy
+greenlet
+itsdangerous
+Jinja2
+MarkupSafe
+PyJWT
+SQLAlchemy
+typing_extensions
+Werkzeug
+gunicorn
